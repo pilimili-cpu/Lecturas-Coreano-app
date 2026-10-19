@@ -40,23 +40,73 @@ Sí, es muy recomendable hacerlo.
 Hoy lo dejaré por aquí.
 Sí, buen trabajo.
 *
-Hoy es la primera vez que vengo.
-Le explicaré las máquinas de ejercicio.
-¿Cómo se usa esta máquina?
-Primero presione este botón.
-Quiero bajar un poco la velocidad.
-Puede ajustarla aquí.
-¿Está usando este lugar?
-No, puede usarlo.
-¿Cuántas series debería hacer aproximadamente?
-Al principio pruebe a hacer solo tres series.
-Parece que pesa demasiado.
-Intente reducir un poco el peso.
-¿Dónde está el lugar para beber agua?
-Está al lado de la entrada.
-¿También se pueden alquilar toallas?
-Sí, puede pedir una en la recepción.
-¿Hacemos estiramientos al terminar el ejercicio?
-Sí, es muy recomendable hacerlo.
-Hoy lo dejaré por aquí.
-Sí, buen trabajo.
+오늘 / hoy, este día
+처음 / por primera vez
+왔어요 / vine, he venido (verbo 오다 en pasado cortés)
+운동 / ejercicio, actividad física
+기구를 / la máquina, el aparato (기구 + partícula de objeto -를)
+설명해 / explicar (forma conectiva de 설명하다)
+드릴게요 / le explicaré, le daré (auxiliar honorífico 드 리다 + terminación futura -(으)ㄹ게요)
+이 / este, esta
+기구는 / la máquina, el aparato (기구 + partícula de tema -는)
+어떻게 / cómo, de qué manera
+사용해요 / ¿se usa?, ¿se utiliza? (verbo 사용하다 en presente cortés)
+먼저 / primero, en primer lugar
+버튼을 / el botón (버튼 + partícula de objeto -을)
+누르세요 / presione, pulse (verbo 누르다 + imperativo cortés -(으)세요)
+속도를 / la velocidad (속도 + partícula de objeto -를)
+조금 / un poco
+낮추고 / bajar, reducir y... (verbo 낮추다 + conector -고)
+싶어요 / quiero, deseo (auxiliar -고 싶다 en presente cortés)
+여기에서 / aquí, en este lugar (여기 + partícula de acción -에서)
+조절하면 / si ajusta, si regula (verbo 조절하다 + condicional -(으)면)
+돼요 / está bien, funciona (verbo 되다 en presente cortés; -면 돼요 = basta con...)
+자리 / lugar, asiento, espacio
+사용하고 / usar y... (verbo 사용하다 + conector continuo -고)
+있어요 / ¿está...? (verbo 있다 en presente cortés; -고 있어요 = presente continuo)
+아니요 / no
+사용하셔도 / aunque use, si lo usa (사용하다 + honorífico -시- + concesivo -어도)
+돼요 / está bien (verbo 되다 en presente cortés; -어도 돼요 = permiso)
+몇 / cuántos, cuántas
+세트 / series, sets
+정도 / aproximadamente, más o menos
+하면 / si hace (verbo 하다 + condicional -(으)면)
+돼요 / ¿está bien? (verbo 되다 en presente cortés)
+처음에는 / al principio (처음 + partícula de tiempo -에 + tema -는)
+세 / tres
+세트만 / solo series (세트 + partícula exclusora -만)
+해 / intente hacer (forma conectiva de 하다)
+보세요 / intente, pruebe a (auxiliar 보다 + imperativo cortés -(으)세요)
+너무 / demasiado, muy
+무거운 / pesado (adjetivo 무겁다 en forma atributiva -(으)ㄴ)
+것 / cosa, que (sustantivo dependiente)
+같아요 / parece (verbo 같다 en presente cortés; -ㄴ 것 같아요 = parece que...)
+무게를 / el peso (무게 + partícula de objeto -를)
+줄여 / reduzca y... (forma conectiva de 줄이다)
+보세요 / intente, pruebe a (auxiliar 보다 + imperativo cortés -(으)세요)
+물 / agua
+마실 / para beber, donde beber (verbo 마시다 en forma atributiva futura -(으)ㄹ)
+곳이 / el lugar (곳 + partícula de sujeto -이)
+어디예요 / ¿dónde es? (어디 + verbo copulativo 이다 en presente cortés)
+입구 / la entrada
+옆에 / al lado de (옆 + partícula de localización -에)
+있어요 / está, se encuentra (verbo 있다 en presente cortés)
+수건도 / ¿también la toalla? (수건 + partícula incluyente -도)
+빌릴 / pedir prestado, alquilar (verbo 빌리다 en forma atributiva futura -(으)ㄹ)
+수 / posibilidad, capacidad (sustantivo dependiente)
+있어요 / ¿se puede? (verbo 있다 en presente cortés; -(으)ㄹ 수 있어요 = posibilidad)
+네 / sí
+데스크에서 / en la recepción (데스크 + partícula de acción -에서)
+받을 / recibir (verbo 받다 en forma atributiva futura -(으)ㄹ)
+수 / posibilidad, capacidad (sustantivo dependiente)
+있어요 / puede, es posible (verbo 있다 en presente cortés)
+끝나고 / terminar y... (verbo 끝 나다 + conector secuencial -고)
+스트레칭할까요 / ¿hacemos estiramientos? (스트레칭하다 + sugerencia -(으)ㄹ까요)
+꼭 / sin falta, de todas maneras
+하는 / hacer (verbo 하다 en forma atributiva de presente -는)
+게 / la cosa, el hecho de (contracción de 것 + partícula de sujeto -이)
+좋아요 / es bueno, es recomendable (adjetivo 좋다 en presente cortés; -는 게 좋아요 = es mejor...)
+오늘은 / hoy, en cuanto a hoy (오늘 + partícula de tema -은)
+여기까지 / hasta aquí (여기 + partícula límite -까지)
+할게요 / haré, dejaré (verbo 하다 + intención futura -(으)ㄹ게요)
+수고하셨어요 / buen trabajo, gracias por el esfuerzo (verbo 수고하다 en pasado honorífico)
