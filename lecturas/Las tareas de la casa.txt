@@ -1,0 +1,100 @@
+오늘 집 청소할까?
+응, 같이 하면 금방 끝날 거야.
+청소기 어디 있어?
+작은 방에 있어.
+내가 바닥 청소할까?
+좋아, 나는 먼지 닦을게.
+빨래는 누가 할까?
+내가 세탁기에 넣을게.
+이 옷은 어떻게 빨아?
+찬물로 빨면 돼.
+빨래 어디에 널까?
+베란다에 널자.
+냉장고도 정리해야 할까?
+응, 오래된 음식부터 버리자.
+이 상자는 어디에 놓을까?
+창고에 넣어 두자.
+청소 거의 끝났어?
+응, 조금만 더 하면 돼.
+이제 집이 진짜 깨끗하다.
+그러게, 기분까지 좋아졌어.
+*
+¿Limpiamos la casa hoy?
+Sí, si lo hacemos juntos acabaremos enseguida.
+¿Dónde está la aspiradora?
+Está en la habitación pequeña.
+¿Limpio yo el suelo?
+Vale, yo limpiaré el polvo.
+¿Quién hace la colada?
+Yo la meteré en la lavadora.
+¿Cómo se lava esta ropa?
+Con lavarla con agua fría basta.
+¿Dónde tendemos la ropa?
+Tendámosla en el balcón.
+¿Deberíamos organizar la nevera también?
+Sí, tiremos primero la comida antigua.
+¿Dónde ponemos esta caja?
+Guardémosla en el trastero.
+¿Casi ha terminado la limpieza?
+Sí, basta con hacer un poco más.
+Ahora la casa está verdaderamente limpia.
+Es verdad, hasta me he puesto de buen humor.
+*
+집안일 / tareas del hogar / labores domésticas
+함께 / juntos
+나누기 / compartir / repartir (forma sustantivada de 나누다)
+오늘 / hoy
+집 / casa
+청소할까 / ¿limpiamos? (limpiar 청소하다 + propuesta 을까)
+응 / sí (forma informal)
+같이 / juntos
+하면 / si hacemos (hacer 하다 + conector si/cuando 면)
+금방 / enseguida / pronto
+끝날 거야 / va a terminar / acabará (terminar 끝나다 + futuro informal 을 거야)
+청소기 / aspiradora
+어디 / dónde
+있어 / ¿dónde está? / hay (forma informal de 있다)
+작은 / pequeña (forma modificadora de 작다)
+방에 / en la habitación (habitación 방 + partícula de lugar 에)
+내가 / yo (forma informal 내 + partícula de sujeto 가)
+바닥 / suelo / piso
+좋아 / vale / de acuerdo (forma informal de 좋다)
+나는 / yo (yo 나 + partícula de tema 는)
+먼지 / polvo
+닦을게 / limpiaré / pasaré el trapo (limpiar 닦다 + promesa/intención 을게)
+빨래는 / la colada / la ropa sucia (colada 빨래 + partícula de tema 는)
+누가 / quién (quién 누구 + partícula de sujeto 가)
+세탁기에 / en la lavadora (lavadora 세탁기 + partícula de lugar 에)
+넣을게 / meteré / pondré (meter 넣다 + promesa/intención 을게)
+이 / esta / este
+옷은 / la ropa (ropa 옷 + partícula de tema 은)
+어떻게 / cómo
+빨아 / ¿se lava? / lavo (forma informal de 빨다)
+찬물로 / con agua fría (agua fría 찬물 + partícula de medio/instrumento 로)
+빨면 돼 / basta con lavar / se puede lavar (빨다 + conector si 면 + ser posible 돼)
+어디에 / en dónde (dónde 어디 + partícula de lugar 에)
+널까 / ¿tendemos? (tender ropa 널다 + propuesta 을까)
+베란다에 / en el balcón / terraza (balcón 베란다 + partícula de lugar 에)
+널자 / tendamos (tender 널다 + propuesta informal 자)
+냉장고도 / la nevera también (nevera 냉장고 + partícula también 도)
+정리해야 할까 / ¿deberíamos organizar? (organizar 정리하다 + deber 해야 하다 + propuesta 을까)
+오래된 / antigua / pasada (forma modificadora de 오래되다)
+음식부터 / desde la comida / empezando por la comida (comida 음식 + partícula de inicio 부터)
+버리자 / tiremos / arrojemos (tirar 버리다 + propuesta informal 자)
+상자는 / la caja (caja 상자 + partícula de tema 는)
+놓을까 / ¿ponemos? / ¿colocamos? (poner 놓다 + propuesta 을까)
+창고에 / en el trastero / almacén (trastero 창고 + partícula de lugar 에)
+넣어 두자 / guardémosla / dejémosla metida (넣다 + guardar 두다 + propuesta 자)
+청소 / limpieza
+거의 / casi
+끝났어 / ¿terminó? / acabó (pasado informal de 끝나다)
+조금만 / solo un poco (un poco 조금 + partícula solo 만)
+더 / más
+하면 돼 / basta con hacer (하다 + conector si 면 + ser posible 돼)
+이제 / ahora
+집이 / la casa (casa 집 + partícula de sujeto 이)
+진짜 / verdaderamente / de verdad
+깨끗하다 / está limpia (forma descriptiva de 깨끗하다)
+그러게 / es verdad / tienes razón
+기분까지 / hasta el ánimo / incluso el humor (ánimo 기분 + partícula hasta 까지)
+좋아졌어 / mejoró / se volvió bueno (좋다 + volverse 어지다 en pasado informal)

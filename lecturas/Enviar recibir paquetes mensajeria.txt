@@ -1,0 +1,101 @@
+여기에서 택배 보낼 수 있어요?
+네, 여기에서 접수하시면 돼요.
+이 상자를 사용해도 돼요?
+네, 크기도 괜찮아요.
+주소는 어디에 입력해요?
+이 기계에서 입력하세요.
+휴대폰 번호도 필요해요?
+네, 연락처를 입력해 주세요.
+배송비는 얼마예요?
+무게를 먼저 확인해야 해요.
+내일 도착할 수 있어요?
+지역에 따라 달라요.
+배송 조회는 어떻게 해요?
+앱에서 확인할 수 있어요.
+반품 택배도 여기에서 보내요?
+네, 반품도 접수할 수 있어요.
+이 QR 코드를 보여 주면 돼요?
+네, 화면을 보여 주세요.
+접수가 끝난 건가요?
+네, 이제 가져가시면 돼요.
+*
+¿Se puede enviar un paquete de mensajería desde aquí?
+Sí, puede registrarlo aquí.
+¿Puedo usar esta caja?
+Sí, el tamaño también está bien.
+¿Dónde se introduce la dirección?
+Introdúzcala en esta máquina.
+¿También se necesita el número de teléfono móvil?
+Sí, por favor, introduzca los datos de contacto.
+¿Cuánto cuesta el envío?
+Primero hay que comprobar el peso.
+¿Puede llegar mañana?
+Depende de la región.
+¿Cómo se hace el seguimiento del envío?
+Se puede comprobar en la aplicación.
+¿El paquete de devolución también se envía desde aquí?
+Sí, las devoluciones también se pueden registrar.
+¿Basta con mostrar este código QR?
+Sí, muestre la pantalla, por favor.
+¿Ya ha terminado el registro?
+Sí, ahora ya puede llevárselo.
+*
+여기에서 / desde aquí (여기: aquí + -에서: partícula de lugar "en/desde")
+택배 / paquete / mensajería
+보낼 수 있어요? / ¿se puede enviar? (보내다: enviar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+네 / sí
+여기에서 / aquí (여기: aquí + -에서: partícula de lugar "en")
+접수하시면 돼요 / basta con registrar / puede registrar (접수하다: registrar/aceptar + -(으)시-: honorífico + -(으)면 되다: bastar con/ser suficiente + -요: nivel cortés)
+이 / esta (determinante demostrativo)
+상자를 / la caja (상자: caja + -을: partícula de objeto directo)
+사용해도 돼요? / ¿se puede usar? (사용하다: usar + -아/어도 되다: tener permiso/poder + -요: nivel cortés)
+네 / sí
+크기도 / el tamaño también (크기: tamaño + -도: partícula "también")
+괜찮아요 / está bien / es aceptable (괜찮다: estar bien + -아요: nivel cortés)
+주소는 / la dirección (주소: dirección + -은: partícula de tema)
+어디에 / dónde (어디: dónde + -에: partícula de lugar "en/a")
+입력해요? / ¿se introduce / introduce? (입력하다: introducir/entrar datos + -아요: nivel cortés)
+이 / esta
+기계에서 / en la máquina (기계: máquina + -에서: partícula de lugar "en")
+입력하세요 / introduzca, por favor (입력하다: introducir + -(으)세요: imperativo cortés)
+휴대폰 / teléfono móvil
+번호도 / número también (번호: número + -도: partícula "también")
+필요해요? / ¿es necesario? / ¿hace falta? (필요하다: ser necesario + -아요: nivel cortés)
+네 / sí
+연락처를 / el contacto (연락처: datos de contacto + -를: partícula de objeto directo)
+입력해 주세요 / introduzca, por favor (입력하다: introducir + -아 주다: hacer un favor + -세요: imperativo cortés)
+배송비는 / la tarifa de envío (배송비: coste de envío + -은: partícula de tema)
+얼마예요? / ¿cuánto es? (얼마: cuánto + -예요: verbo ser)
+무게를 / el peso (무게: peso + -를: partícula de objeto directo)
+먼저 / primero / de antemano
+확인해야 해요 / hay que comprobar (확인하다: comprobar + -아/어야 하다: tener que/deber + -요: nivel cortés)
+내일 / mañana
+도착할 수 있어요? / ¿puede llegar? (도착하다: llegar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+지역에 / a/en la región (지역: región + -에: partícula de lugar "en/a")
+따라 / según / dependiendo de (따르다: seguir/depender + -아)
+달라요 / es diferente / varía (다르다: ser diferente + -아요: nivel cortés)
+배송 / envío
+조회는 / la consulta / seguimiento (조회: consulta/búsqueda + -는: partícula de tema)
+어떻게 / cómo
+해요? / ¿se hace / hace? (하다: hacer + -아요: nivel cortés)
+앱에서 / en la aplicación (앱: aplicación + -에서: partícula de lugar "en")
+확인할 수 있어요 / se puede comprobar (확인하다: comprobar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+반품 / devolución
+택배도 / paquete también (택배: paquete/mensajería + -도: partícula "también")
+여기에서 / desde aquí (여기: aquí + -에서: partícula de lugar "desde")
+보내요? / ¿se envía? (보내다: enviar + -아요: nivel cortés)
+네 / sí
+반품도 / devolución también (반품: devolución + -도: partícula "también")
+접수할 수 있어요 / se puede registrar (접수하다: registrar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+이 / este
+QR 코드를 / el código QR (QR 코드: código QR + -를: partícula de objeto directo)
+보여 주면 돼요? / ¿basta con mostrar? (보이다: mostrar + -아 주다: hacer el favor + -(으)면 되다: bastar con/ser suficiente + -요: nivel cortés)
+네 / sí
+화면을 / la pantalla (화면: pantalla + -를: partícula de objeto directo)
+보여 주세요 / muestre, por favor (보이다: mostrar + -아 주다: hacer el favor + -세요: imperativo cortés)
+접수가 / el registro / la aceptación (접수: registro + -가: partícula de sujeto)
+끝난 / terminado / finalizado (끝나다: terminar + -(으)ㄴ: adjetivo modificador)
+건가요? / ¿es el caso de que...? / ¿ya está...? (것: cosa + -ㄴ가요?: terminación interrogativa suave)
+네 / sí
+이제 / ahora
+가져가시면 돼요 / basta con llevárselo / puede llevárselo (가져가다: llevarse + -(으)시-: honorífico + -(으)면 되다: bastar con + -요: nivel cortés)

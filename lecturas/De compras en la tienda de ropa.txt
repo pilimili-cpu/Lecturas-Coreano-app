@@ -1,0 +1,92 @@
+이거 입어 봐도 돼요?
+네, 피팅룸은 저쪽이에요.
+조금 큰 것 같아요.
+한 사이즈 작은 걸 드릴게요.
+다른 색도 있어요?
+네, 검은색도 있어요.
+이거 새 상품이에요?
+아니요, 새 상품으로 가져다드릴게요.
+이 옷 할인해요?
+네, 지금 할인 중이에요.
+온라인 가격도 같아요?
+네, 온라인과 같은 가격이에요.
+이걸로 할게요.
+네, 계산 도와드릴게요.
+카드로 결제할게요.
+네, 카드 여기에 넣어주세요.
+교환 할 수 있어요?
+네, 영수증을 가져오시면 돼요.
+쇼핑백 하나 주세요.
+네, 같이 드릴게요.
+*
+¿Puedo probarme esto?
+Sí, el probador está por allí.
+Parece un poco grande.
+Le daré una talla más pequeña.
+¿Tienen de otro color también?
+Sí, también hay en negro.
+¿Este es un producto nuevo?
+No, le traeré uno nuevo.
+¿Esta ropa tiene descuento?
+Sí, ahora mismo está en descuento.
+¿El precio en línea también es igual?
+Sí, es el mismo precio que en línea.
+Me quedo con este.
+Sí, le ayudo con el pago.
+Pagaré con tarjeta.
+Sí, inserte la tarjeta aquí, por favor.
+¿Se puede cambiar?
+Sí, solo tiene que traer el recibo.
+Deme una bolsa de la compra, por favor.
+Sí, se la daré junta.
+*
+이거 / esto
+입어 봐도 돼요? / ¿puedo probármelo? (입다: vestir + -어 보다: probar + -아도 되다: poder/permiso + -요: nivel cortés)
+네 / sí
+피팅룸은 / el probador (-은: partícula de tema)
+저쪽이에요 / está por allí (저쪽: aquel lado + -이에요: verbo ser/estar)
+조금 / un poco
+큰 것 같아요 / parece grande (크다: ser grande + -(으)ㄴ 것 같다: parecer/creer que)
+한 / una (adjetivo numeral)
+사이즈 / talla
+작은 / pequeña (작다: ser pequeño + -(으)ㄴ: adjetivo modificador)
+걸 / la (cosa) (것: cosa + -을: partícula de objeto directo)
+드릴게요 / le daré (드리다: dar [humilde/cortés] + -(으)ㄹ게요: intención/promesa futura)
+다른 / otro (다르다: ser diferente + -(으)ㄴ: adjetivo modificador)
+색도 / color también (색: color + -도: partícula "también")
+있어요? / ¿hay? / ¿tienen? (있다: haber/tener + -요: nivel cortés)
+검은색도 / color negro también (검은색: color negro + -도: partícula "también")
+새 / nuevo
+상품이에요? / ¿es un producto? (상품: producto + -이에요?: verbo ser en pregunta)
+아니요 / no
+상품으로 / como producto (상품: producto + -으로: partícula de función/modo "como" o "en calidad de")
+가져다드릴게요 / se lo traeré (가져다 드리다: traer para alguien [cortés] + -(으)ㄹ게요: intención futura)
+이 / esta
+옷 / ropa
+할인해요? / ¿hacen descuento? (할인하다: hacer descuento + -요: nivel cortés)
+지금 / ahora
+할인 중이에요 / está en descuento (할인: descuento + 중: en proceso + -이에요: verbo ser/estar)
+온라인 / en línea
+가격도 / precio también (가격: precio + -도: partícula "también")
+같아요? / ¿es igual? (같다: ser igual + -요: nivel cortés)
+온라인과 / con/que en línea (온라인: en línea + -과: partícula de comparación "con/que")
+같은 / mismo / igual (같다: ser igual + -(으)ㄴ: adjetivo modificador)
+가격이에요 / es el precio (가격: precio + -이에요: verbo ser)
+이걸로 / con este / con esto (이것: esto + -로: partícula de elección/medio "con/por")
+할게요 / me quedaré / lo haré (하다: hacer/elegir + -(으)ㄹ게요: intención futura)
+계산 / pago / cuenta
+도와드릴게요 / le ayudaré (돕다: ayudar + -아 드리다: hacer un favor a alguien [cortés] + -(으)ㄹ게요: intención futura)
+카드로 / con tarjeta (카드: tarjeta + -로: partícula de medio/instrumento "con/mediante")
+결제할게요 / pagaré (결제하다: pagar + -(으)ㄹ게요: intención futura)
+카드 / tarjeta
+여기에 / aquí (여기: aquí + -에: partícula de lugar "en/a")
+넣어주세요 / inserte, por favor (넣다: meter/insertar + -아 주다: hacer el favor + -세요: imperativo cortés)
+교환 / cambio
+할 수 있어요? / ¿se puede hacer? (하다: hacer + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+영수증을 / el recibo (영수증: recibo + -을: partícula de objeto directo)
+가져오시면 돼요 / basta con traer / puede traer (가져오다: traer + -(으)시: honorífico + -(으)면 되다: bastar con/ser suficiente)
+쇼핑백 / bolsa de la compra
+하나 / una
+주세요 / deme, por favor (주다: dar + -세요: imperativo cortés)
+같이 / junto
+드릴게요 / se la daré (드리다: dar [humilde/cortés] + -(으)ㄹ게요: intención futura)

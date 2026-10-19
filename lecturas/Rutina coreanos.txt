@@ -1,0 +1,101 @@
+오늘 몇 시에 일어났어요?
+아침 여섯 시에 일어났어요.
+알람 소리 들었어요?
+아니요, 못 들었어요.
+어젯밤에 잘 잤어요?
+네, 푹 잤어요.
+일어나서 제일 먼저 뭐 해요?
+물 한 잔 마셔요.
+아침마다 커피 마셔요?
+아니요, 따뜻한 차를 마셔요.
+아침 식사는 했어요?
+네, 토스트를 먹었어요.
+오늘 아침에 바빴어요?
+네, 준비할 시간이 부족했어요.
+출근 준비는 얼마나 걸려요?
+보통 삼십 분 걸려요.
+오늘도 일찍 나가요?
+아니요, 오늘은 조금 늦게 나가요.
+아침부터 기분이 좋아 보여요.
+네, 오늘은 좋은 일이 있을 것 같아요.
+*
+¿A qué hora te has levantado hoy?
+Me he levantado a las seis de la mañana.
+¿Has oído la alarma?
+No, no la he oído.
+¿Dormiste bien anoche?
+Sí, dormí profundamente.
+¿Qué es lo primero que haces al levantarte?
+Bebo un vaso de agua.
+¿Bebes café todas las mañanas?
+No, bebo té caliente.
+¿Has desayunado?
+Sí, he comido una tostada.
+¿Has estado ocupado/a esta mañana?
+Sí, me ha faltado tiempo para prepararme.
+¿Cuánto tardas en prepararte para ir a trabajar?
+Normalmente tardo 30 minutos.
+¿Hoy también sales temprano?
+No, hoy salgo un poco más tarde.
+Pareces de buen humor desde por la mañana.
+Sí, presiento que hoy pasará algo bueno.
+*
+오늘 / hoy
+몇 / qué / cuántos
+시에 / a las (hora 시 + partícula de tiempo 에)
+일어났어요 / me levanté / te levantaste (pasado de 일어나다)
+아침 / mañana / desayuno
+여섯 / seis
+알람 / alarma
+소리 / sonido / ruido
+들었어요 / oí / oíste (pasado de 듣다)
+아니요 / no
+못 / no poder / no haber logrado (negación de capacidad)
+어젯밤에 / anoche (anoche 어젯밤 + partícula de tiempo 에)
+잘 / bien
+잤어요 / dormí / dormiste (pasado de 자다)
+네 / sí
+푹 / profundamente / plácidamente
+일어나서 / tras levantarme (일어나다 + conector secuencial 아서)
+제일 / el más / lo primero
+먼저 / primero / en primer lugar
+뭐 / qué
+해요 / hago / haces (presente de 하다)
+물 / agua
+한 / un / una (forma corta de 하나)
+잔 / vaso / taza / copa
+마셔요 / bebo / bebes (presente de 마시다)
+아침마다 / cada mañana (mañana 아침 + partícula distributiva 마다)
+커피 / café
+따뜻한 / caliente / cálido (forma modificadora de 따뜻하다)
+차를 / té (té 차 + partícula de objeto 를)
+식사는 / la comida (comida 식사 + partícula de tema 는)
+했어요 / comí / comiste (pasado de 하다)
+토스트를 / tostada (tostada 토스트 + partícula de objeto 를)
+먹었어요 / comí / comiste (pasado de 먹다)
+바빴어요 / estuve ocupado / estuviste ocupado (pasado de 바쁘다)
+준비할 / para prepararme (forma futura modificadora de 준비하다)
+시간이 / el tiempo (tiempo 시간 + partícula de sujeto 이)
+부족했어요 / faltó / fue insuficiente (pasado de 부족하다)
+출근 / ir al trabajo / entrada al trabajo
+준비는 / la preparación (preparación 준비 + partícula de tema 는)
+얼마나 / cuánto
+걸려요 / tardo / tardas (presente de 걸리다)
+보통 / normalmente / por lo general
+삼십 / treinta
+분 / minutos
+오늘도 / hoy también (hoy 오늘 + partícula también 도)
+일찍 / temprano
+나가요 / salgo / sales (presente de 나가다)
+오늘은 / hoy (hoy 오늘 + partícula de tema 는)
+조금 / un poco
+늦게 / tarde (forma adverbial de 늦다)
+아침부터 / desde la mañana (mañana 아침 + partícula de inicio 부터)
+기분이 / el estado de ánimo (ánimo 기분 + partícula de sujeto 이)
+좋아 / bueno / agradable (forma raíz de 좋다)
+보여요 / pareces / te ves (presente de 보이다)
+좋은 / bueno / buena (forma modificadora de 좋다)
+일이 / asunto / cosa / evento (cosa 일 + partícula de sujeto 이)
+있을 / que habrá (forma futura modificadora de 있다)
+것 / cosa / hecho / probabilidad
+같아요 / parece / creo que (presente de 같다)

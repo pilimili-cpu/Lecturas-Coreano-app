@@ -1,0 +1,158 @@
+[
+    {
+        "id": "Sojin",
+        "titulo": "El viaje de Sojin"
+    },
+    {
+        "id": "MinHo",
+        "titulo": "La cena de Min Ho"
+    },
+    {
+        "id": "CompraTiendaLocal",
+        "titulo": "Comprando en una pequeña tienda"
+    },
+    {
+        "id": "BuscandoFarmacia",
+        "titulo": "Buscando una farmacia."
+    },
+    {
+        "id": "Tienda de Ropa",
+        "titulo": "Comprando ropa"
+    },
+    {
+        "id": "RestauranteCoreano",
+        "titulo": "Comiendo en restaurante Coreano"
+    },
+    {
+        "id": "Preguntando Direccion",
+        "titulo": "Preguntando por una libreria"
+    },
+    {
+        "id": "Ana y Eun So",
+        "titulo": "Ana conoce a Eun So"
+    },
+    {
+        "id": "preguntando y explicando",
+        "titulo": "preguntas y respuestas (porqué)"
+    },
+    {
+        "id": "Rutina coreanos",
+        "titulo": "¿Cómo es la mañana de los coreanos?"
+    },
+    {
+        "id": "Hablar de rutina diaria",
+        "titulo": "Hablar de mi rutina diaria"
+    },
+    {
+        "id": "Hablando con amigo",
+        "titulo": "De que hablar con un amigo"
+    },
+    {
+        "id": "Nuestra familia",
+        "titulo": "Hablar de nuestra familia"
+    },
+    {
+        "id": "Las tareas de la casa",
+        "titulo": "Las tareas de la casa"
+    },
+    {
+        "id": "En la casa de un amigo",
+        "titulo": "Visitando a un amigo"
+    },
+    {
+        "id": "Dia de descanso",
+        "titulo": "Dia de descanso"
+    },
+    {
+        "id": "Saludando a un vecino",
+        "titulo": "Vemos a un vecino por 1ª vez"
+    },
+    {
+        "id": "Que tal tu dia",
+        "titulo": "Que tal tu dia"
+    },
+    {
+        "id": "Pedir pollo y cerveza en un día lluvioso",
+        "titulo": "Pedir pollo y cerveza en un día lluvioso"
+    },
+    {
+        "id": "Pedir en Kimbap Cheonguk",
+        "titulo": "Pedir en Kimbap Cheonguk"
+    },
+    {
+        "id": "Cena de empresa con Samgyeopsal",
+        "titulo": "Cena de empresa con Samgyeopsal"
+    },
+    {
+        "id": "Pedir en una cafetería de Seongsu-dong",
+        "titulo": "Pedir en una cafetería de Seongsu-dong"
+    },
+    {
+        "id": "Kiosco en una hamburguesería de Hongdae",
+        "titulo": "Kiosco en una hamburguesería de Hongdae"
+    },
+    {
+        "id": "Comida callejera en el Mercado Bupyeong Kkangtong",
+        "titulo": "Comida callejera en el Mercado Bupyeong Kkangtong"
+    },
+    {
+        "id": "Pedir aperitivos en un bar de Euljiro",
+        "titulo": "Pedir aperitivos en un bar de Euljiro"
+    },
+    {
+        "id": "Domicilio de Jjajangmyeon un domingo",
+        "titulo": "Domicilio de Jjajangmyeon un domingo"
+    },
+    {
+        "id": "Gukbap de brotes de soja en el Mercado Nambu de Jeonju",
+        "titulo": "Gukbap de brotes de soja en el Mercado Nambu de Jeonju"
+    },
+    {
+        "id": "Empaque para regalo en una panadería de Daejeon",
+        "titulo": "Empaque para regalo en una panadería de Daejeon"
+    },
+    {
+        "id": "Restaurante famoso de Shabu-shabu en Daegu",
+        "titulo": "Restaurante famoso de Shabu-shabu en Daegu"
+    },
+    {
+        "id": "Pedir con timbre de llamada en una casa de snacks de Suwon",
+        "titulo": "Pedir con timbre de llamada en una casa de snacks de Suwon"
+    },
+    {
+        "id": "De compras en la tienda de ropa",
+        "titulo": "De compras en la tienda de ropa"
+    },
+    {
+        "id": "Problemas con pedido a domicilio de comida",
+        "titulo": "Problemas con pedido a domicilio de comida"
+    },
+    {
+        "id": "En el medico",
+        "titulo": "En el medico"
+    },
+    {
+        "id": "Tramite en el banco",
+        "titulo": "Tramite en el banco"
+    },
+    {
+        "id": "Enviar recibir paquetes mensajeria",
+        "titulo": "Enviar recibir paquetes mensajeria"
+    },
+    {
+        "id": "Problemas en casa Averias",
+        "titulo": "Problemas en casa Averias"
+    },
+    {
+        "id": "Hacer ejercicio en el gimnasio",
+        "titulo": "Hacer ejercicio en el gimnasio"
+    },
+    {
+        "id": "compraventa de segunda mano",
+        "titulo": "compraventa de segunda mano"
+    },
+    {
+        "id": "tramites centro comunitario ayuntamiento",
+        "titulo": "tramites centro comunitario ayuntamiento"
+    }
+]

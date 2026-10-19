@@ -1,0 +1,101 @@
+여기 새로 이사 오셨어요?
+네, 지난주에 이사 왔어요.
+몇 층에 사세요?
+저는 삼 층에 살아요.
+이 근처에 마트가 있어요?
+네, 걸어서 오 분 거리예요.
+근처에 좋은 카페도 있나요?
+네, 골목 안에 하나 있어요.
+이 동네는 조용한 편이에요?
+네, 밤에는 아주 조용해요.
+엘리베이터가 고장 났나요?
+네, 지금 수리하고 있어요.
+이 택배는 누구 거예요?
+아마 옆집 택배일 거예요.
+혹시 관리실이 어디에 있어요?
+일 층 입구 옆에 있어요.
+근처에 맛집 있어요?
+네, 아주 맛있는 식당 많아요.
+앞으로 잘 부탁드려요.
+네, 저도 잘 부탁드려요.
+*
+¿Se ha mudado aquí hace poco?
+Sí, me mudé la semana pasada.
+¿En qué piso vive?
+Yo vivo en el tercer piso.
+¿Hay un supermercado cerca de aquí?
+Sí, está a cinco minutos andando.
+¿Hay también alguna buena cafetería cerca?
+Sí, hay una dentro del callejón.
+¿Este barrio suele ser tranquilo?
+Sí, por la noche es muy tranquilo.
+¿Se ha averiado el ascensor?
+Sí, lo están reparando ahora.
+¿De quién es este paquete?
+Probablemente sea el paquete del vecino.
+Por casualidad, ¿dónde está la oficina de administración?
+Está al lado de la entrada en la primera planta.
+¿Hay buenos restaurantes cerca?
+Sí, hay muchos restaurantes muy sabrosos.
+Espero que nos llevemos bien de ahora en adelante.
+Igualmente, encantado/a de conocerle.
+*
+이웃과 / con un vecino (vecino 이웃 + partícula con 과)
+처음 / por primera vez / inicio
+인사하기 / saludar / el saludo (forma sustantivada de 인사하다)
+여기 / aquí
+새로 / de nuevo / recientemente
+이사 오셨어요 / ¿se ha mudado aquí? (이사 오다 + forma honorífica 오시다 en pasado)
+네 / sí
+지난주에 / la semana pasada (la semana pasada 지난주 + partícula de tiempo 에)
+이사 왔어요 / me mudé / he venido de mudanza (이사 오다 en pasado)
+몇 / qué / cuántos
+층에 / en el piso / en la planta (piso 층 + partícula de lugar 에)
+사세요 / ¿vive? (forma honorífica de 살다)
+저는 / yo (yo 저 + partícula de tema 는)
+삼 / tres (número sino-coreano)
+살아요 / vivo / vives (presente de 살다)
+이 / este / esta
+근처에 / cerca de aquí / en las cercanías (cercanías 근처 + partícula de lugar 에)
+마트가 / el supermercado (supermercado 마트 + partícula de sujeto 가)
+있어요 / ¿hay? / existe (presente de 있다)
+걸어서 / caminando / a pie (caminar 걷다 + conector secuencial 어서)
+오 / cinco (número sino-coreano)
+분 / minutos
+거리예요 / es una distancia de (distancia 거리 + copula 이에요/예요)
+좋은 / buena / bonito (forma modificadora de 좋다)
+카페도 / la cafetería también (cafetería 카페 + partícula también 도)
+있나요 / ¿hay? / ¿existe? (있다 + pregunta cortés 나요)
+골목 / callejón / pasaje
+안에 / dentro de / en el interior (interior 안 + partícula de lugar 에)
+하나 / uno / una
+동네는 / el barrio / vecindario (barrio 동네 + partícula de tema 는)
+조용한 / tranquilo (forma modificadora de 조용하다)
+편이에요 / suele ser / tiende a (tendencia 편 + copula 이에요)
+밤에는 / por la noche (noche 밤 + partícula 에/는)
+아주 / muy / mucho
+조용해요 / es tranquilo (presente de 조용하다)
+엘리베이터가 / el ascensor (ascensor 엘리베이터 + partícula de sujeto 가)
+고장 났나요 / ¿se ha averiado? (estropearse 고장 나다 + pregunta cortés 나요)
+지금 / ahora
+수리하고 있어요 / lo están reparando (reparar 수리하다 + estar haciendo 고 있다)
+택배는 / el paquete / servicio de mensajería (paquete 택배 + partícula de tema 는)
+누구 / quién
+거예요 / ¿de quién es? / es la cosa de (cosa 것 + copula 이에요 -> 거예요)
+아마 / probablemente / tal vez
+옆집 / la casa de al lado / vecino
+택배일 거예요 / será el paquete de (택배 + suposición 일 것이다)
+혹시 / por casualidad / tal vez
+관리실이 / la oficina de administración (oficina 관리실 + partícula de sujeto 이)
+어디에 / en dónde (dónde 어디 + partícula de lugar 에)
+일 / uno / primera (número sino-coreano)
+입구 / entrada / acceso
+옆에 / al lado de (lado 옆 + partícula de lugar 에)
+맛집 / restaurante famoso / sitio donde se come bien
+맛있는 / delicioso / sabroso (forma modificadora de 맛있다)
+식당 / restaurante
+많아요 / hay muchos (presente de 많다)
+앞으로 / de ahora en adelante / en el futuro (futuro 앞 + partícula de dirección 로)
+잘 / bien
+부탁드려요 / le encargo / cuento con usted (forma cortés de 부탁하다)
+저도 / yo también (yo 저 + partícula también 도)

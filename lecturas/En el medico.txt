@@ -1,0 +1,124 @@
+며칠 전부터 목이 아파요.
+열도 있었어요?
+기침이 계속 나요.
+언제부터 아파요?
+머리가 조금 어지러워요.
+다른 증상도 있어요?
+어제는 열이 났어요.
+체온 한번 확인해 볼게요.
+밤에 더 심해져요.
+잠 자기 힘들어요?
+이 약을 먹고 있어요.
+언제부터 드셨어요?
+약 알레르기는 없어요.
+네, 확인했습니다.
+검사도 해야 하나요?
+간단한 검사를 해 볼게요.
+운동해도 괜찮아요?
+며칠은 쉬는 게 좋아요.
+언제 다시 와야 해요?
+계속 아프면 다시 오세요.
+*
+Me duele la garganta desde hace unos días.
+¿También ha tenido fiebre?
+Tengo tos continua.
+¿Desde cuándo le duele?
+Me mareo un poco.
+¿Tiene algún otro síntoma?
+Ayer tuve fiebre.
+Voy a comprobar la temperatura corporal.
+Por la noche empeora.
+¿Le cuesta dormir?
+Estoy tomando esta medicina.
+¿Desde cuándo la toma?
+No tengo alergia a ningún medicamento.
+Sí, comprendido.
+¿También tengo que hacerme pruebas?
+Haremos una prueba sencilla.
+¿Puedo hacer ejercicio?
+Es mejor descansar unos días.
+¿Cuándo tengo que volver?
+Si le sigue doliendo, vuelva de nuevo.
+*
+## Traducción del diálogo
+
+Me duele la garganta desde hace unos días.
+¿También ha tenido fiebre?
+Tengo tos continua.
+¿Desde cuándo le duele?
+Me mareo un poco.
+¿Tiene algún otro síntoma?
+Ayer tuve fiebre.
+Voy a comprobar la temperatura corporal.
+Por la noche empeora.
+¿Le cuesta dormir?
+Estoy tomando esta medicina.
+¿Desde cuándo la toma?
+No tengo alergia a ningún medicamento.
+Sí, comprendido.
+¿También tengo que hacerme pruebas?
+Haremos una prueba sencilla.
+¿Puedo hacer ejercicio?
+Es mejor descansar unos días.
+¿Cuándo tengo que volver?
+Si le sigue doliendo, vuelva de nuevo.
+
+---
+
+## Glosario
+
+며칠 전부터 / desde hace unos días (며칠: unos días + 전: antes + -부터: desde)
+목이 / la garganta (목: cuello/garganta + -이: partícula de sujeto)
+아파요 / me duele (아프다: doler/estar enfermo + -아요: nivel cortés)
+열도 / fiebre también (열: fiebre + -도: partícula "también")
+있었어요? / ¿tuvo? / ¿ha tenido? (있다: haber/tener + -었-: pasado + -어요: nivel cortés)
+기침이 / la tos (기침: tos + -이: partícula de sujeto)
+계속 / continuamente / seguido
+나요 / sale / me da (나다: salir/producirse + -아요: nivel cortés)
+언제부터 / ¿desde cuándo? (언제: cuándo + -부터: desde)
+아파요? / ¿le duele? (아프다: doler + -아요: nivel cortés)
+머리가 / la cabeza (머리: cabeza + -가: partícula de sujeto)
+조금 / un poco
+어지러워요 / está mareada / se marea (어지럽다: estar mareado + -어요: nivel cortés)
+다른 / otros / diferentes (다르다: ser diferente + -(으)ㄴ: adjetivo modificador)
+증상도 / síntoma también (증상: síntoma + -도: partícula "también")
+있어요? / ¿tiene? / ¿hay? (있다: haber/tener + -어요: nivel cortés)
+어제는 / ayer (어제: ayer + -는: partícula de tema)
+열이 / la fiebre (열: fiebre + -이: partícula de sujeto)
+났어요 / tuve / me dio (나다: salir/producirse + -았-: pasado + -어요: nivel cortés)
+체온 / temperatura corporal
+한번 / una vez / un momento
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+밤에 / por la noche (밤: noche + -에: partícula de tiempo "en")
+더 / más
+심해져요 / empeora / se vuelve más grave (심하다: ser grave + -아/어지다: volverse/hacerse + -어요: nivel cortés)
+잠 / sueño / dormir
+자기 / el dormir / dormirse (자다: dormir + -기: nominalizador "el hecho de")
+힘들어요? / ¿es difícil? / ¿le cuesta? (힘들다: ser difícil/costoso + -어요: nivel cortés)
+이 / esta
+약을 / la medicina (약: medicina + -을: partícula de objeto directo)
+먹고 있어요 / estoy tomando (먹다: comer/tomar + -고 있다: aspecto continuo "estar -ando/-iendo" + -어요: nivel cortés)
+언제부터 / ¿desde cuándo? (언제: cuándo + -부터: desde)
+드셨어요? / ¿tomó? (들다: tomar/comer [honorífico] + -(으)시-: sufijo honorífico + -었-: pasado + -어요: nivel cortés)
+약 / medicina / medicamento
+알레르기는 / la alergia (알레르기: alergia + -는: partícula de tema)
+없어요 / no tengo / no hay (없다: no haber/no tener + -어요: nivel cortés)
+네 / sí
+확인했습니다 / comprobado / comprendido (확인하다: comprobar + -았-: pasado + -습니다: nivel formal)
+검사도 / prueba también (검사: prueba/examen médico + -도: partícula "también")
+해야 하나요? / ¿tengo que hacer? (하다: hacer + -아/어야 하다: tener que/deber + -나요?: desinencia interrogativa)
+간단한 / sencilla / simple (간단하다: ser sencillo + -(으)ㄴ: adjetivo modificador)
+검사를 / la prueba (검사: prueba/examen + -를: partícula de objeto directo)
+해 볼게요 / voy a hacer (하다: hacer + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+운동해도 / aunque haga ejercicio / haciendo ejercicio (운동하다: hacer ejercicio + -아/어도: aunque/incluso si)
+괜찮아요? / ¿está bien? (괜찮다: estar bien + -아요: nivel cortés)
+며칠은 / unos días (며칠: unos días + -은: partícula de tema)
+쉬는 게 / el descansar (쉬다: descansar + -는 것: el hecho de + -이: partícula de sujeto "게")
+좋아요 / es mejor / es bueno (좋다: ser bueno + -아요: nivel cortés)
+언제 / cuándo
+다시 / de nuevo / otra vez
+와야 해요? / ¿tengo que venir? (오다: venir + -아/어야 하다: tener que/deber + -어요: nivel cortés)
+계속 / continuamente / si sigue
+아프면 / si duele (아프다: doler + -(으)면: condicional "si")
+다시 / de nuevo / otra vez
+오세요 / venga, por favor (오다: venir + -(으)세요: imperativo cortés)

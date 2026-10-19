@@ -1,0 +1,100 @@
+오늘 하루 어땠어요?
+바빴지만 즐거웠어요.
+오늘 가장 좋았던 일은 뭐예요?
+오랜 친구를 만난 거예요.
+저녁은 이미 먹었어요?
+네, 조금 전에 먹었어요.
+오늘 해야 할 일 끝났어요?
+네, 모두 끝냈어요.
+내일 입을 옷은 준비했어요?
+네, 미리 꺼내 놨어요.
+내일 아침에도 일찍 나가요?
+네, 일곱 시에 나가야 해요.
+오늘은 일찍 자는 게 어때요?
+좋아요, 저도 좀 졸려요.
+자기 전에 뭐 할 거예요?
+책을 조금 읽을 거예요.
+오늘도 정말 수고했어요.
+고마워요, 당신도 수고했어요.
+잘 자요, 내일 봐요.
+좋은 꿈 꾸세요, 내일 봐요.
+*
+¿Qué tal estuvo tu día hoy?
+Estuve ocupado/a pero fue divertido.
+¿Qué fue lo mejor que te pasó hoy?
+Reencontrarme con un viejo amigo.
+¿Ya has cenado?
+Sí, he comido hace un momento.
+¿Has terminado las tareas de hoy?
+Sí, las he terminado todas.
+¿Has preparado la ropa que te vas a poner mañana?
+Sí, ya la he sacado con antelación.
+¿Mañana por la mañana también sales temprano?
+Sí, tengo que salir a las siete.
+¿Qué tal si te duermes temprano hoy?
+Vale, yo también tengo un poco de sueño.
+¿Qué vas a hacer antes de dormir?
+Voy a leer un poco un libro.
+Hoy también te has esforzado mucho.
+Gracias, tú también te has esforzado mucho.
+Que duermas bien, nos vemos mañana.
+Que tengas felices sueños, nos vemos mañana.
+*
+오늘 / hoy
+하루 / el día / la jornada
+어땠어요 / ¿qué tal estuvo? / ¿cómo fue? (pasado de 어때요)
+바빴지만 / estuve ocupado/a pero (바쁘다 + conector pero 지만)
+즐거웠어요 / fue divertido / lo pasé bien (pasado de 즐겁다)
+가장 / el más / lo más
+좋았던 / que fue bueno / preferido (좋다 + pasado modificador 았던)
+일은 / el hecho / el asunto (cosa 일 + partícula de tema 은)
+뭐예요 / ¿qué es? (qué 뭐 + copula 이에요/예요)
+오랜 / de mucho tiempo / viejo
+친구를 / al amigo (amigo 친구 + partícula de objeto 를)
+만난 / que encontré / que vi (만나다 + pasado modificador ㄴ)
+거예요 / es la cosa de / es el hecho de (것 + copula 이에요 -> 거예요)
+저녁은 / la cena (cena 저녁 + partícula de tema 은)
+이미 / ya
+먹었어요 / comí / cené (pasado de 먹다)
+네 / sí
+조금 / un poco
+전에 / antes de / hace (antes 전 + partícula de tiempo 에)
+해야 할 / que tengo que hacer (hacer 하다 + deber 해야 하다 + futuro modificador ㄹ)
+끝났어요 / ¿terminó? / acabó (pasado de 끝나다)
+모두 / todo / todos
+끝냈어요 / las terminé / las acabé (pasado de 끝내다)
+내일 / mañana
+입을 / que voy a vestir / para poner (vestir 입다 + futuro modificador 을)
+옷은 / la ropa (ropa 옷 + partícula de tema 은)
+준비했어요 / ¿preparaste? (pasado de 준비하다)
+미리 / con antelación / de antemano
+꺼내 놨어요 / la dejé sacada (꺼내다 + dejar preparado 놓다 en pasado)
+아침에도 / en la mañana también (mañana 아침 + partícula 에/도)
+일찍 / temprano
+나가요 / sales / salgo (presente de 나가다)
+일곱 / siete
+시에 / a las (hora 시 + partícula de tiempo 에)
+나가야 해요 / tengo que salir (salir 나가다 + obligación 야 하다)
+오늘은 / hoy (hoy 오늘 + partícula de tema 은)
+자는 / el dormir (forma modificadora de 자다)
+게 / el hecho (contracción de 것이)
+어때요 / ¿qué tal? (presente de 어떠하다)
+좋아요 / vale / de acuerdo (presente de 좋다)
+저도 / yo también (yo 저 + partícula también 도)
+좀 / un poco
+졸려요 / tengo sueño (presente de 졸리다)
+자기 / el dormir / antes de dormirse (forma sustantivada de 자다)
+할 거예요 / voy a hacer (hacer 하다 + futuro 을 것이다)
+책을 / el libro (libro 책 + partícula de objeto 를)
+읽을 거예요 / voy a leer (leer 읽다 + futuro 을 것이다)
+오늘도 / hoy también (hoy 오늘 + partícula también 도)
+정말 / realmente / de verdad
+수고했어요 / te has esforzado / buen trabajo (pasado de 수고하다)
+고마워요 / gracias (presente de 고맙다)
+당신도 / tú también / usted también (usted 당신 + partícula también 도)
+잘 / bien
+자요 / duerme / duermo (presente de 자다)
+봐요 / nos vemos (presente de 보다)
+좋은 / buenos / agradables (forma modificadora de 좋다)
+꿈 / sueño
+꾸세요 / que tengas / sueña (forma honorífica de 꿈을 꾸다)

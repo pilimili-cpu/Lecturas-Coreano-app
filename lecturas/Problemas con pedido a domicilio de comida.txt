@@ -1,0 +1,129 @@
+배달이 아직 안 왔어요.
+주문 상태를 확인해 볼게요.
+다른 음식이 왔어요.
+주문 번호를 알려 주세요.
+음료가 빠졌어요.
+확인하고 다시 보내 드릴게요.
+음식이 다 식었어요.
+정말 죄송합니다.
+배달 주소가 잘못됐어요.
+새 주소를 알려 주세요.
+문 앞에 놓아 주세요.
+네, 문 앞에 둘게요.
+벨은 누르지 말아 주세요.
+네, 알겠습니다.
+배달이 오래 걸려요?
+십 분 정도 더 걸릴 것 같아요.
+이 주문 취소할 수 있어요?
+지금 확인해 보겠습니다.
+환불은 언제 받을 수 있어요?
+결제 방법에 따라 달라요.
+*
+El pedido aún no ha llegado.
+Voy a comprobar el estado del pedido.
+Ha llegado otra comida diferente.
+Por favor, dígame el número de pedido.
+Falta la bebida.
+Lo comprobaré y se la volveré a enviar.
+La comida se ha enfriado del todo.
+Lo siento muchísimo.
+La dirección de entrega está mal.
+Por favor, dígame la nueva dirección.
+Por favor, déjelo delante de la puerta.
+Sí, lo dejaré delante de la puerta.
+Por favor, no toque el timbre.
+Sí, de acuerdo.
+¿La entrega tarda mucho?
+Parece que tardará unos diez minutos más.
+¿Puedo cancelar este pedido?
+Voy a comprobarlo ahora mismo.
+¿Cuándo puedo recibir el reembolso?
+Depende del método de pago.
+*
+## Traducción del diálogo
+
+El pedido aún no ha llegado.
+Voy a comprobar el estado del pedido.
+Ha llegado otra comida diferente.
+Por favor, dígame el número de pedido.
+Falta la bebida.
+Lo comprobaré y se la volveré a enviar.
+La comida se ha enfriado del todo.
+Lo siento muchísimo.
+La dirección de entrega está mal.
+Por favor, dígame la nueva dirección.
+Por favor, déjelo delante de la puerta.
+Sí, lo dejaré delante de la puerta.
+Por favor, no toque el timbre.
+Sí, de acuerdo.
+¿La entrega tarda mucho?
+Parece que tardará unos diez minutos más.
+¿Puedo cancelar este pedido?
+Voy a comprobarlo ahora mismo.
+¿Cuándo puedo recibir el reembolso?
+Depende del método de pago.
+
+---
+
+## Glosario
+
+배달이 / la entrega (배달: entrega + -이: partícula de sujeto)
+아직 / aún / todavía
+안 왔어요 / no ha llegado (안: no + 오다: venir/llegar + -았-: pasado + -어요: nivel cortés)
+주문 / pedido
+상태를 / el estado (상태: estado + -를: partícula de objeto directo)
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+다른 / otra / diferente (다르다: ser diferente + -(으)ㄴ: adjetivo modificador)
+음식이 / la comida (음식: comida + -이: partícula de sujeto)
+왔어요 / ha llegado (오다: venir/llegar + -았-: pasado + -어요: nivel cortés)
+주문 / pedido
+번호를 / el número (번호: número + -를: partícula de objeto directo)
+알려 주세요 / dígame / informe, por favor (알리다: informar/hacer saber + -아 주다: hacer el favor + -세요: imperativo cortés)
+음료가 / la bebida (음료: bebida + -가: partícula de sujeto)
+빠졌어요 / falta / se ha omitido (빠지다: caerse/faltar + -었-: pasado + -어요: nivel cortés)
+확인하고 / comprobar y (확인하다: comprobar + -고: conjunción "y")
+다시 / de nuevo / otra vez
+보내 드릴게요 / se lo enviaré (보내다: enviar + -아 드리다: hacer un favor a alguien [cortés] + -(으)ㄹ게요: intención futura)
+음식이 / la comida (음식: comida + -이: partícula de sujeto)
+다 / todo / completamente
+식었어요 / se ha enfriado (식다: enfriarse + -었-: pasado + -어요: nivel cortés)
+정말 / realmente
+죄송합니다 / lo siento mucho (죄송하다: sentirlo/pedir disculpas + -ㅂ니다: nivel formal/cortés)
+배달 / entrega
+주소가 / la dirección (주소: dirección + -가: partícula de sujeto)
+잘못됐어요 / está mal / ha habido un error (잘못되다: salir mal/estar equivocado + -었-: pasado + -어요: nivel cortés)
+새 / nueva
+주소를 / la dirección (주소: dirección + -를: partícula de objeto directo)
+알려 주세요 / dígame / informe, por favor (알리다: informar/hacer saber + -아 주다: hacer el favor + -세요: imperativo cortés)
+문 / puerta
+앞에 / delante de (앞: delante + -에: partícula de lugar "en/a")
+놓아 주세요 / déjelo, por favor (놓다: poner/dejar + -아 주다: hacer el favor + -세요: imperativo cortés)
+네 / sí
+문 / puerta
+앞에 / delante de (앞: delante + -에: partícula de lugar "en/a")
+둘게요 / lo dejaré (두다: poner/dejar + -(으)ㄹ게요: intención futura)
+벨은 / el timbre (벨: timbre + -은: partícula de tema)
+누르지 말아 주세요 / no toque/presione, por favor (누르다: presionar/tocar + -지 말다: prohibición "no hacer" + -아 주다: favor + -세요: imperativo cortés)
+네 / sí
+알겠습니다 / entiendo / de acuerdo (알다: saber/entender + -겠-: intención/asentimiento + -습니다: nivel formal)
+배달이 / la entrega (배달: entrega + -이: partícula de sujeto)
+오래 / mucho tiempo
+걸려요? / ¿tarda? (걸리다: tardar tiempo + -요: nivel cortés)
+십 / diez
+분 / minuto
+정도 / aproximadamente / unos
+더 / más
+걸릴 것 같아요 / parece que tardará (걸리다: tardar + -(으)ㄹ 것 같다: parecer/creer que)
+이 / este
+주문 / pedido
+취소할 수 있어요? / ¿se puede cancelar? (취소하다: cancelar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+지금 / ahora
+확인해 보겠습니다 / voy a comprobarlo (확인하다: comprobar + -아 보다: intentar/probar + -겠-: intención + -습니다: nivel formal)
+환불은 / el reembolso (환불: reembolso + -은: partícula de tema)
+언제 / cuándo
+받을 수 있어요? / ¿puedo recibir? (받다: recibir + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+결제 / pago
+방법에 / al método (방법: método + -에: partícula de causa/criterio "según/a")
+따라 / según / dependiendo de (따르다: seguir/depender + -아)
+달라요 / es diferente / cambia (다르다: ser diferente + -아/어 요: nivel cortés)
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)

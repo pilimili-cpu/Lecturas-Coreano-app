@@ -1,0 +1,166 @@
+어서 오세요! 아무 데나 앉으세요.
+안녕하세요, 이모.
+학생이에요? 방학이에요?
+네, 지금 방학이에요.
+좋겠네요! 오늘 날씨 참 덥죠?
+네, 너무 더워요.
+물은 저기 있어요. 셀프예요.
+아, 알겠어요. 감사합니다.
+메뉴 정하면 벨을 눌러요.
+벨이요? 이거요?
+네, 그거예요. 천천히 봐요.
+여기요! 주문할게요.
+네, 뭐 드릴까요?
+음, 참치김밥 하나 주세요.
+네, 또요?
+떡볶이도 하나 주세요.
+떡볶이는 좀 매워요. 괜찮아요?
+네, 괜찮아요. 주세요.
+알겠어요. 잠깐만 기다려요.
+여기요! 잠깐만요.
+네, 왜요?
+옆 테이블 떡볶이가 너무 빨개요.
+하하, 저게 우리 떡볶이예요.
+아, 진짜요? 저는 매운 걸 못 먹어요.
+그래요? 그럼 바꿀까요?
+네, 떡볶이 말고 우동으로 바꿔 주세요.
+우동은 안 매워요. 좋아요.
+감사합니다. 죄송해요.
+괜찮아요. 김밥은 그대로 해요?
+네, 김밥은 그대로 주세요.
+네, 금방 나와요.
+감사합니다!
+여기 나왔어요. 맛있게 먹어요!
+와, 맛있겠네요! 잘 먹겠습니다.
+계산은 나갈 때 해요.
+*
+¡Bienvenido! Siéntese donde guste.
+Hola, tía.
+¿Eres estudiante? ¿Estás de vacaciones?
+Sí, ahora estoy de vacaciones.
+¡Qué bien! Hoy hace mucho calor, ¿verdad?
+Sí, hace demasiado calor.
+El agua está allá. Es autoservicio.
+Ah, entendido. Gracias.
+Cuando decida el menú, presione el timbre.
+¿El timbre? ¿Este?
+Sí, ese mismo. Mire con calma.
+¡Disculpe! Voy a pedir.
+Sí, ¿qué le sirvo?
+Mmm, deme un kimbap de atún, por favor.
+Sí, ¿qué más?
+Deme un tteokbokki también, por favor.
+El tteokbokki es un poco picante. ¿Está bien?
+Sí, está bien. Démelo, por favor.
+Entendido. Espere un momento.
+¡Disculpe! Un momento.
+Sí, ¿qué pasa?
+El tteokbokki de la mesa de al lado está demasiado rojo.
+Jaja, ese es nuestro tteokbokki.
+Ah, ¿en serio? Yo no puedo comer cosas picantes.
+¿En serio? ¿Entonces lo cambiamos?
+Sí, cámbiemelo por udon en lugar de tteokbokki, por favor.
+El udon no pica. Está bien.
+Gracias. Lo siento.
+Está bien. ¿El kimbap se queda igual?
+Sí, el kimbap démelo igual, por favor.
+Sí, sale de inmediato.
+¡Gracias!
+Aquí tiene. ¡Que disfrute la comida!
+¡Vaya, se ve delicioso! Comeré bien.
+El pago se hace al salir.
+*
+수원 / Suwon (nombre de ciudad)
+분식집 / casa de snacks, restaurante de comida rápida coreana (분식 + 집)
+호출벨 / timbre de llamada (호출 + 벨)
+주문 / pedido
+어서 / rápido, adelante
+오세요 / pase, venga (오다 + 세요)
+아무 데나 / en cualquier lugar
+앉으세요 / siéntese (앉다 + 세요)
+안녕하세요 / hola
+이모 / tía (término afectuoso para la mesera/vendedora)
+학생이에요 / ¿eres estudiante? (학생 + 이다)
+방학이에요 / ¿estás de vacaciones? (방학 + 이다)
+네 / sí
+지금 / ahora
+좋겠네요 / qué bien, qué suerte (좋다 + 겠 + 네요)
+오늘 / hoy
+날씨 / clima, tiempo
+참 / realmente, muy
+덥죠 / hace calor, ¿verdad? (덥다 + 죠)
+너무 / demasiado, muy
+더워요 / hace calor (덥다)
+물은 / el agua (물 + 은)
+저기 / allá
+있어요 / está (있다)
+셀프예요 / es autoservicio (셀프 + 이다)
+아 / ah
+알겠어요 / entendido (알다 + 겠 + 어요)
+감사합니다 / gracias (감사하다)
+메뉴 / menú
+정하면 / si decide, cuando elija (정하다 + 면)
+벨을 / el timbre (벨 + 을)
+눌러요 / presione (누르다)
+벨이요 / ¿el timbre? (벨 + 이요)
+이거요 / ¿este? (이거 + 요)
+그거예요 / es ese (그거 + 이다)
+천천히 / despacio, con calma
+봐요 / mire (보다)
+여기요 / ¡disculpe! (para llamar la atención) (여기 + 요)
+주문할게요 / voy a pedir (주문하다 + ㄹ게요)
+뭐 / qué
+드릴까요 / ¿le sirvo?, ¿le ofrezco? (드리다 + ㄹ까요)
+음 / mmm
+참치김밥 / kimbap de atún
+하나 / uno, un
+주세요 / deme, por favor (주다)
+또요 / ¿qué más?, ¿otra vez? (또 + 요)
+떡볶이도 / tteokbokki también (떡볶이 + 도)
+떡볶이는 / el tteokbokki (떡볶이 + 는)
+좀 / un poco
+매워요 / pica, es picante (매우다/맵다)
+괜찮아요 / ¿está bien? (괜찮다)
+잠깐만 / un momento
+기다려요 / espere (기다리다)
+잠깐만요 / un momento (잠깐만 + 요)
+왜요 / ¿por qué?, ¿qué pasa?
+옆 / lado, al lado
+테이블 / mesa
+떡볶이가 / el tteokbokki (떡볶이 + 가)
+빨개요 / está rojo (빨갛다)
+하하 / jaja
+저게 / aquello (저것 + 이)
+우리 / nuestro
+진짜요 / ¿en serio?
+저는 / yo (저 + 는)
+매운 / picante (매우다/맵다 en forma modificadora)
+걸 / lo, las cosas (것 + 을)
+못 / no poder
+먹어요 / como (먹다)
+그래요 / ¿en serio?, ¿es así? (그렇다)
+그럼 / entonces
+바꿀까요 / ¿cambiamos?, ¿lo cambio? (바꾸다 + ㄹ까요)
+말고 / en lugar de, no (말다 + 고)
+우동으로 / por udon (우동 + 으로)
+바꿔 / cambiando (바꾸다)
+우동은 / el udon (우동 + 은)
+안 / no
+좋아요 / es bueno, está bien (좋다)
+죄송해요 / lo siento (죄송하다)
+김밥은 / el kimbap (김밥 + 은)
+그대로 / así, igual
+해요 / ¿hacemos? (하다)
+금방 / de inmediato, enseguida
+나와요 / sale (나오다)
+나왔어요 / salió, aquí está (나오다 en pasado)
+맛있게 / rico, sabrosamente (맛있다 + 게)
+먹어요 / come (먹다)
+와 / vaya, uwa
+맛있겠네요 / ¡se ve delicioso! (맛있다 + 겠 + 네요)
+잘 / bien
+먹겠습니다 / comeré con gusto (먹다 + 겠습니다)
+계산은 / el pago, la cuenta (계산 + 은)
+나갈 / salir (나가다 + ㄹ)
+때 / cuando, al
+해요 / se hace (하다)

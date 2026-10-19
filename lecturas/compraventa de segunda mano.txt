@@ -1,0 +1,98 @@
+혹시 중고거래 때문에 오셨어요?
+네, 제가 연락드렸어요.
+오래 기다리셨어요?
+아니요, 방금 왔어요.
+물건 한번 확인해 보세요.
+네, 상태가 좋네요.
+사용한 지 얼마나 됐어요?
+육 개월 정도 사용했어요.
+잘 작동하는지 확인해 볼래요?
+네, 확인해 볼게요.
+여기 흠집이 조금 있어요.
+이 정도는 괜찮아요.
+가격은 그대로 괜찮으세요?
+네, 괜찮아요.
+돈은 계좌로 보내 주세요.
+네, 계좌이체 했어요.
+입금됐는지 확인해 볼게요.
+확인해 보세요.
+좋은 거래 감사합니다.
+저도 감사합니다.
+*
+¿Por casualidad viene por la compraventa de segunda mano?
+Sí, yo le escribí.
+¿Ha esperado mucho tiempo?
+No, acabo de llegar.
+Eche un vistazo al producto.
+Sí, está en buen estado.
+¿Cuánto tiempo hace que lo usa?
+Lo he usado unos seis meses.
+¿Quiere comprobar si funciona bien?
+Sí, voy a comprobarlo.
+Aquí tiene un pequeño rasguño.
+Ese poco está bien, no importa.
+¿El precio le parece bien tal como está?
+Sí, me parece bien.
+Envíeme el dinero a la cuenta bancaria, por favor.
+Sí, ya le he hecho la transferencia bancaria.
+Voy a comprobar si se ha recibido el ingreso.
+Compruébelo, por favor.
+Muchas gracias por la buena transacción.
+Gracias a usted también.
+*
+혹시 / por casualidad
+중고거래 / compraventa de segunda mano (중고: segunda mano + 거래: transacción)
+때문에 / debido a / por (때문: razón/causa + -에: partícula)
+오셨어요? / ¿ha venido? (오다: venir + -(으)시-: honorífico + -었-: pasado + -어요: nivel cortés)
+네 / sí
+제가 / yo (제: yo [humilde] + -가: partícula de sujeto)
+연락드렸어요 / le contacté / le escribí (연락하다: contactar + -아 드리다: hacer favor [cortés] + -었-: pasado + -어요: nivel cortés)
+오래 / mucho tiempo
+기다리셨어요? / ¿ha esperado? (기다리다: esperar + -(으)시-: honorífico + -었-: pasado + -어요: nivel cortés)
+아니요 / no
+방금 / acabo de / justo ahora
+왔어요 / he llegado / he venido (오다: venir + -았-: pasado + -어요: nivel cortés)
+물건 / producto / artículo / cosa
+한번 / una vez / un momento
+확인해 보세요 / compruebe, por favor (확인하다: comprobar + -아 보다: intentar/probar + -세요: imperativo cortés)
+네 / sí
+상태가 / el estado (상태: estado + -가: partícula de sujeto)
+좋네요 / está bueno / se ve bien (좋다: ser bueno + -네요: exclamación de descubrimiento)
+사용한 지 / desde que lo usé (사용하다: usar + -(으)ㄴ 지: desde que)
+얼마나 / cuánto tiempo / cuánto
+됐어요? / ¿ha pasado? (되다: llegar a ser/pasar + -었-: pasado + -어요: nivel cortés)
+육 / seis
+개월 / meses (contador de meses)
+정도 / aproximadamente / unos
+사용했어요 / he usado (사용하다: usar + -었-: pasado + -어요: nivel cortés)
+잘 / bien
+작동하는지 / si funciona (작동하다: funcionar + -는지: si/duda)
+확인해 볼래요? / ¿quiere comprobar? (확인하다: comprobar + -아 보다: intentar + -(으)ㄹ래요?: intención/propuesta)
+네 / sí
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar + -(으)ㄹ게요: intención futura)
+여기 / aquí
+흠집이 / un rasguño / marca (흠집: rasguño + -이: partícula de sujeto)
+조금 / un poco
+있어요 / hay / tiene (있다: haber/tener + -어요: nivel cortés)
+이 / este
+정도 freeze / esta cantidad / este nivel (정도: grado/nivel)
+괜찮아요 / está bien / no pasa nada (괜찮다: estar bien + -아요: nivel cortés)
+가격은 / el precio (가격: precio + -은: partícula de tema)
+그대로 / tal cual / así como está
+괜찮으세요? / ¿le parece bien? (괜찮다: estar bien + -(으)시-: honorífico + -어요: nivel cortés)
+네 / sí
+괜찮아요 / está bien (괜찮다: estar bien + -아요: nivel cortés)
+돈은 / el dinero (돈: dinero + -은: partícula de tema)
+계좌로 / a la cuenta (계좌: cuenta bancaria + -로: partícula de dirección/medio)
+보내 주세요 / envíe, por favor (보내다: enviar + -아 주다: hacer el favor + -세요: imperativo cortés)
+네 / sí
+계좌이체 / transferencia bancaria
+했어요 / he hecho (하다: hacer + -였-: pasado + -어요: nivel cortés)
+입금됐는지 / si se ha ingresado (입금되다: ser ingresado + -었-: pasado + -는지: si/duda)
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar + -(으)ㄹ게요: intención futura)
+확인해 보세요 / compruébelo, por favor (확인하다: comprobar + -아 보다: intentar + -세요: imperativo cortés)
+좋은 / buena (좋다: ser bueno + -(으)ㄴ: adjetivo modificador)
+거래 / transacción / trato
+감사합니다 / gracias (감사하다: agradecer + -ㅂ니다: nivel formal)
+저도 / yo también (저: yo [humilde] + -도: partícula "también")
+감사합니다 / gracias (감사하다: agradecer + -ㅂ니다: nivel formal)

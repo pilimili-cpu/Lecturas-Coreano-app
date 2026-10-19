@@ -1,0 +1,45 @@
+민호는 오늘 시장에 가서 신선한 야채를 샀습니다.
+집에 돌아와서 맛있고 매운 김치찌개를 만들었습니다.
+친구들을 초대해서 함께 저녁 식사를 맛있게 먹었습니다.
+요리를 만들고 나누는 것은 정말 즐거운 일입니다.
+모두가 행복한 시간을 보내서 아주 기뻤습니다.
+*
+Minho fue hoy al mercado y compró verduras frescas.
+Al volver a casa, preparó un delicioso y picante estofado de kimchi (Kimchi-jjigae).
+Invitó a sus amigos y comió deliciosamente la cena junto con ellos.
+Cocinar y compartir platos es realmente una actividad divertida.
+Me puse muy contento porque todos pasaron un tiempo feliz.
+*
+민호는 / Minho (sujeto)
+오늘 / hoy
+장에 / a (el) mercado
+가서 / yendo, habiendo ido (de 가다)
+신선한 / fresco/a (modificador de 야채)
+야채를 / verduras (objeto)
+샀습니다 / compré / compró (paso formal de 사다)
+집에 / a casa
+돌아와서 / volviendo, habiendo vuelto (de 돌아오다)
+맛있고 / delicioso/a y... (de 맛있다)
+매운 / picante (modificador de 김치찌개)
+김치찌개를 / estofado de kimchi (objeto)
+만들었습니다 / preparé / preparó (paso formal de 만들다)
+친구들을 / amigos (objeto plural)
+초대해서 / invitando, habiendo invitado (de 초대하다)
+함께 / juntos, con
+저녁 / cena / noche
+식사를 / comida / cena (objeto)
+맛있게 / deliciosamente (adverbio)
+먹었습니다 / comí / comió (paso formal de 먹다)
+요리를 / cocina / plato (objeto)
+만들고 / hacer y... / preparar y... (de 만들다)
+나누는 / el hecho de compartir / que comparte (de 나누다)
+것은 / el hecho de que... (sujeto)
+정말 / realmente, de verdad
+즐거운 / divertido/a, alegre (modificador de 일)
+일입니다 / es un trabajo / es una actividad (de 이다)
+모두가 / todos (sujeto)
+행복한 / feliz (modificador de 시간)
+시간을 / tiempo (objeto)
+보내서 / pasando (el tiempo), habiendo pasado (de 보내다)
+아주 / muy
+기뻤습니다 / estuve contento / se alegró (paso pasado formal de 기쁘다)

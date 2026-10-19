@@ -1,0 +1,95 @@
+싱크대에서 물이 새요.
+제가 한번 확인해 볼게요.
+갑자기 불이 안 켜져요.
+전등부터 확인해 볼게요.
+난방이 안 되는 것 같아요.
+온도 조절기를 확인해 보세요.
+인터넷이 계속 끊겨요.
+공유기를 다시 켜 볼게요.
+세탁기가 작동하지 않아요.
+화면에 표시가 있나요?
+문이 잘 안 잠겨요.
+잠금장치를 확인해야겠어요.
+수리 기사님은 언제 오세요?
+오후에 방문하실 거예요.
+오늘 고칠 수 있을까요?
+먼저 상태를 확인해 봐야 해요.
+수리비가 많이 나올까요?
+확인한 후에 알려 드릴게요.
+이제 제대로 작동해요.
+다행이네요.
+*
+Sale agua del fregadero.
+Voy a comprobarlo.
+De repente la luz no se enciende.
+Primero comprobaré la bombilla.
+Parece que la calefacción no funciona.
+Compruebe el termostato, por favor.
+El internet se corta continuamente.
+Volveré a encender el router.
+La lavadora no funciona.
+¿Hay alguna señal en la pantalla?
+La puerta no cierra bien.
+Tendré que comprobar el cerrojo.
+¿Cuándo vendrá el técnico de reparaciones?
+Vendrá por la tarde.
+¿Se podrá arreglar hoy?
+Primero hay que comprobar el estado.
+¿Saldrá muy cara la reparación?
+Se lo diré después de comprobarlo.
+Ahora ya funciona correctamente.
+Menos mal.
+*
+싱크대에서 / del fregadero (싱크대: fregadero + -에서: partícula de lugar "en/desde")
+물이 / el agua (물: agua + -이: partícula de sujeto)
+새요 / sale / gotea (새다: salir/gotear + -요: nivel cortés)
+제가 / yo (제: yo [humilde] + -가: partícula de sujeto)
+한번 / una vez / un momento
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+갑자기 / de repente
+불이 / la luz (불: luz/fuego + -이: partícula de sujeto)
+안 켜져요 / no se enciende (안: no + 켜지다: encenderse + -요: nivel cortés)
+전등부터 / primero la bombilla (전등: bombilla/luz + -부터: desde/en primer lugar)
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+난방이 / la calefacción (난방: calefacción + -이: partícula de sujeto)
+안 되는 것 같아요 / parece que no funciona (안 되다: no funcionar + -(으)ㄴ 것 같다: parecer/creer que + -요: nivel cortés)
+온도 / temperatura
+조절기를 / el regulador / termostato (조절기: regulador + -를: partícula de objeto directo)
+확인해 보세요 / compruebe, por favor (확인하다: comprobar + -아 보다: intentar/probar + -세요: imperativo cortés)
+인터넷이 / el internet (인터넷: internet + -이: partícula de sujeto)
+계속 / continuamente / todo el tiempo
+끊겨요 / se corta / se interrumpe (끊기다: cortarse/interrumpirse + -요: nivel cortés)
+공유기를 / el router (공유기: router + -를: partícula de objeto directo)
+다시 / de nuevo / otra vez
+켜 볼게요 / encenderé / probaré a encender (켜다: encender + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+세탁기가 / la lavadora (세탁기: lavadora + -가: partícula de sujeto)
+작동하지 않아요 / no funciona / no opera (작동하다: funcionar/operar + -지 않다: negación "no" + -아요: nivel cortés)
+화면에 / en la pantalla (화면: pantalla + -에: partícula de lugar "en")
+표시가 / indicación / señal (표시: indicación/señal + -가: partícula de sujeto)
+있나요? / ¿hay? (있다: haber/tener + -나요?: desinencia interrogativa suave)
+문이 / la puerta (문: puerta + -이: partícula de sujeto)
+잘 / bien
+안 잠겨요 / no se cierra / no traba (안: no + 잠기다: cerrarse/trabarse + -요: nivel cortés)
+잠금장치를 / el cerrojo / cierre (잠금장치: cerrojo/mecanismo de cierre + -를: partícula de objeto directo)
+확인해야겠어요 / tendrá que comprobar / debo comprobar (확인하다: comprobar + -아/어야 하다: tener que + -겠-: intención/conjetura + -어요: nivel cortés)
+수리 / reparación
+기사님은 / el técnico (기사님: técnico/especialista [respetuoso] + -은: partícula de tema)
+언제 / cuándo
+오세요? / ¿viene? / ¿vendrá? (오다: venir + -(으)시-: honorífico + -어요: nivel cortés)
+오후에 / por la tarde (오후: tarde + -에: partícula de tiempo "en")
+방문하실 거예요 / visitará / irá (방문하다: visitar + -(으)시-: honorífico + -(으)ㄹ 거예요: futuro/probabilidad)
+오늘 / hoy
+고칠 수 있을까요? / ¿se podrá arreglar? (고치다: arreglar/reparar + -(으)ㄹ 수 있다: poder/capacidad + -(으)ㄹ까요?: pregunta de suposición)
+먼저 / primero / de antemano
+상태를 / el estado (상태: estado + -를: partícula de objeto directo)
+확인해 봐야 해요 / hay que intentar comprobar (확인하다: comprobar + -아 보다: intentar/probar + -아/어야 하다: tener que + -요: nivel cortés)
+수리비가 / el coste de reparación (수리비: coste de reparación + -가: partícula de sujeto)
+많이 / mucho
+나올까요? / ¿saldrá? (나오다: salir + -(으)ㄹ까요?: pregunta de suposición)
+확인한 / comprobado (확인하다: comprobar + -(으)ㄴ: adjetivo modificador en pasado)
+후에 / después de (후: después + -에: partícula de tiempo "en")
+알려 드릴게요 / se lo informaré / le avisaré (알리다: informar + -아 드리다: hacer el favor [cortés] + -(으)ㄹ게요: intención futura)
+이제 / ahora
+제대로 / correctamente / bien
+작동해요 / funciona (작동하다: funcionar + -아요: nivel cortés)
+다행이네요 / qué suerte / menos mal (다행: suerte/alivio + -이-: verbo ser + -네요: exclamación de descubrimiento)

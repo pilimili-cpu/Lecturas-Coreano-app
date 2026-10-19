@@ -1,0 +1,122 @@
+계좌를 만들고 싶어요.
+신분증 보여 주세요.
+휴대폰으로도 신청할 수 있어요?
+네, 앱에서도 가능해요.
+체크카드 만들고 싶어요.
+네, 같이 신청해 드릴게요.
+카드가 아직 안 왔어요.
+배송 상태를 확인해 볼게요.
+비밀번호를 잊어버렸어요.
+본인 확인이 필요해요.
+이체 한도를 바꾸고 싶어요.
+원하시는 금액이 얼마예요?
+해외 송금도 할 수 있어요?
+네, 가능합니다.
+수수료가 얼마예요?
+송금 방법에 따라 달라요.
+앱 로그인이 안 돼요.
+휴대폰 인증부터 해 볼게요.
+알림을 휴대폰으로 받고 싶어요.
+앱에서 설정할 수 있어요.
+*
+Quiero abrir una cuenta.
+Por favor, muéstreme su documento de identidad.
+¿Se puede solicitar también con el teléfono móvil?
+Sí, también es posible desde la aplicación.
+Quiero hacerme una tarjeta de débito.
+Sí, se la solicitaré junto con lo anterior.
+La tarjeta aún no ha llegado.
+Voy a comprobar el estado del envío.
+He olvidado la contraseña.
+Se requiere la verificación de identidad.
+Quiero cambiar el límite de transferencia.
+¿Cuál es la cantidad que desea?
+¿También se puede hacer transferencias al extranjero?
+Sí, es posible.
+¿Cuánto es la comisión?
+Depende del método de transferencia.
+No puedo iniciar sesión en la aplicación.
+Voy a empezar haciendo la autenticación por teléfono móvil.
+Quiero recibir las notificaciones en el teléfono móvil.
+Se puede configurar en la aplicación.
+*
+## Traducción del diálogo
+
+Quiero abrir una cuenta.
+Por favor, muéstreme su documento de identidad.
+¿Se puede solicitar también con el teléfono móvil?
+Sí, también es posible desde la aplicación.
+Quiero hacerme una tarjeta de débito.
+Sí, se la solicitaré junto con lo anterior.
+La tarjeta aún no ha llegado.
+Voy a comprobar el estado del envío.
+He olvidado la contraseña.
+Se requiere la verificación de identidad.
+Quiero cambiar el límite de transferencia.
+¿Cuál es la cantidad que desea?
+¿También se puede hacer transferencias al extranjero?
+Sí, es posible.
+¿Cuánto es la comisión?
+Depende del método de transferencia.
+No puedo iniciar sesión en la aplicación.
+Voy a empezar haciendo la autenticación por teléfono móvil.
+Quiero recibir las notificaciones en el teléfono móvil.
+Se puede configurar en la aplicación.
+
+---
+
+## Glosario
+
+계좌를 / la cuenta (계좌: cuenta bancaria + -를: partícula de objeto directo)
+만들고 싶어요 / quiero hacer / quiero abrir (만들다: hacer/creer + -고 싶다: querer hacer algo + -어요: nivel cortés)
+신분증 / documento de identidad / identificación
+보 보여 주세요 / muestre, por favor (보이다: mostrar + -아 주다: hacer el favor + -세요: imperativo cortés) [Nota: en el texto aparece como 보여 주세요]
+휴대폰으로도 / con el teléfono móvil también (휴대폰: teléfono móvil + -로: partícula de medio "con/mediante" + -도: partícula "también")
+신청할 수 있어요? / ¿se puede solicitar? (신청하다: solicitar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+네 / sí
+앱에서도 / también en la aplicación (앱: aplicación + -에서: partícula de lugar "en" + -도: partícula "también")
+가능해요 / es posible (가능하다: ser posible + -아요: nivel cortés)
+체크카드 / tarjeta de débito / tarjeta de cheque
+만들고 싶어요 / quiero hacer (만들다: hacer + -고 싶다: querer hacer algo + -어요: nivel cortés)
+네 / sí
+같이 / juntos / al mismo tiempo
+신청해 드릴게요 / se lo solicitaré (신청하다: solicitar + -아 드리다: hacer un favor a alguien [cortés] + -(으)ㄹ게요: intención futura)
+카드가 / la tarjeta (카드: tarjeta + -가: partícula de sujeto)
+아직 / aún / todavía
+안 왔어요 / no ha llegado (안: no + 오다: venir/llegar + -았-: pasado + -어요: nivel cortés)
+배송 / envío / entrega
+상태를 / el estado (상태: estado + -를: partícula de objeto directo)
+확인해 볼게요 / voy a comprobar (확인하다: comprobar + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+비밀번호를 / la contraseña (비밀번호: contraseña + -를: partícula de objeto directo)
+잊어버렸어요 / he olvidado / olvidé (잊어버리다: olvidar + -었-: pasado + -어요: nivel cortés)
+본인 / uno mismo / la propia persona
+확인이 / la verificación / confirmación (확인: verificación + -이: partícula de sujeto)
+필요해요 / es necesario / se necesita (필요하다: ser necesario + -아요: nivel cortés)
+이체 / transferencia (bancaria)
+한도를 / el límite (한도: límite + -를: partícula de objeto directo)
+바꾸고 싶어요 / quiero cambiar (바꾸다: cambiar + -고 싶다: querer hacer algo + -어요: nivel cortés)
+원하시는 / que desea (원하다: desear + -(으)시-: sufijo honorífico + -(으)ㄴ: adjetivo modificador)
+금액이 / la cantidad / el importe (금액: cantidad de dinero + -이: partícula de sujeto)
+얼마예요? / ¿cuánto es? (얼마: cuánto + -예요: verbo ser)
+해외 / extranjero / ultramar
+송금도 / transferencia también (송금: transferencia de dinero + -도: partícula "también")
+할 수 있어요? / ¿se puede hacer? (하다: hacer + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+네 / sí
+가능합니다 / es posible (가능하다: ser posible + -ㅂ니다: nivel formal/cortés)
+수수료가 / la comisión / tarifa (수수료: comisión + -가: partícula de sujeto)
+얼마예요? / ¿cuánto es? (얼마: cuánto + -예요: verbo ser)
+송금 / transferencia
+방법에 / al método (방법: método + -에: partícula de lugar/criterio "en/según")
+따라 / según / dependiendo de (따르다: seguir/depender + -아)
+달라요 / es diferente / varía (다르다: ser diferente + -아요: nivel cortés)
+앱 / aplicación
+로그인이 / inicio de sesión / login (로그인: login + -이: partícula de sujeto)
+안 돼요 / no se puede / no funciona (안: no + 되다: funcionar/hacerse + -아요: nivel cortés)
+휴대폰 / teléfono móvil
+인증부터 / desde la autenticación / primero la autenticación (인증: autenticación + -부터: desde / primero)
+해 볼게요 / voy a intentar hacer / probaré a hacer (하다: hacer + -아 보다: intentar/probar + -(으)ㄹ게요: intención futura)
+알림을 / la notificación (알림: aviso/notificación + -을: partícula de objeto directo)
+휴대폰으로 / con el teléfono móvil (휴대폰: teléfono móvil + -로: partícula de medio "con/mediante")
+받고 싶어요 / quiero recibir (받다: recibir + -고 싶다: querer hacer algo + -어요: nivel cortés)
+앱에서 / en la aplicación (앱: aplicación + -에서: partícula de lugar "en")
+설정할 수 있어요 / se puede configurar (설정하다: configurar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)

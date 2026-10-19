@@ -1,0 +1,105 @@
+평소에 몇 시에 출근해요?
+보통 여덟 시 반에 출근해요.
+회사까지 어떻게 가요?
+지하철을 타고 가요.
+점심시간에는 주로 뭐 해요?
+동료들과 밥을 먹어요.
+오후에는 일이 많아요?
+네, 오후에 더 바빠요.
+퇴근하면 바로 집에 가요?
+아니요, 가끔 운동하러 가요.
+저녁에는 보통 뭐 해요?
+유튜브 보면서 쉬어요.
+매일 한국어 공부도 해요?
+네, 하루에 삼십 분씩 해요.
+자기 전에 휴대폰을 봐요?
+네, 뉴스를 조금 읽어요.
+평일에는 몇 시에 자요?
+보통 열한 시쯤 자요.
+하루 중 언제가 가장 좋아요?
+저는 저녁 시간이 가장 좋아요.
+*
+¿A qué hora sueles ir a trabajar?
+Normalmente voy a trabajar a las ocho y media.
+¿Cómo vas hasta la empresa?
+Voy en metro.
+¿Qué haces principalmente a la hora de comer?
+Como con mis compañeros de trabajo.
+¿Tienes mucho trabajo por la tarde?
+Sí, estoy más ocupado/a por la tarde.
+Al salir del trabajo, ¿te vas directo/a a casa?
+No, a veces voy a hacer ejercicio.
+¿Qué sueles hacer por la noche?
+Descanso mientras veo YouTube.
+¿Estudias coreano todos los días también?
+Sí, estudio 30 minutos al día.
+¿Miras el móvil antes de dormir?
+Sí, leo un poco las noticias.
+¿A qué hora te duermes entre semana?
+Normalmente me duermo sobre las once.
+¿Qué momento del día te gusta más?
+A mí me gusta más el horario de la noche.
+*
+나의 / mi (yo 나 + partícula posesiva 의)
+하루 / un día / la jornada
+일과 / rutina diaria / tareas del día
+말하기 / hablar / el hablar (forma sustantivada de 말하다)
+평소에 / habitualmente / normalmente (평소 + partícula de tiempo 에)
+몇 / qué / cuántos
+시에 / a las (hora 시 + partícula de tiempo 에)
+출근해요 / voy al trabajo / entro a trabajar (presente de 출근하다)
+보통 / normalmente / por lo general
+여덟 / ocho
+반에 / a media (media hora 반 + partícula de tiempo 에)
+회사까지 / hasta la empresa (empresa 회사 + partícula hasta 까지)
+어떻게 / cómo
+가요 / voy / vas (presente de 가다)
+지하철을 / el metro (metro 지하철 + partícula de objeto 을)
+타고 / tomando / montando (타다 + conector y 타고)
+점심시간에는 / a la hora de comer (hora de comer 점심시간 + partícula de tiempo/tema 에/는)
+주로 / principalmente / mayoritariamente
+뭐 / qué
+해요 / hago / haces (presente de 하다)
+동료들과 / con los compañeros (compañeros 동료 + partícula con 들/과)
+밥을 / la comida / el arroz (comida 밥 + partícula de objeto 을)
+먹어요 / como / comes (presente de 먹다)
+오후에는 / por la tarde (la tarde 오후 + partícula de tiempo/tema 에/는)
+일이 / el trabajo / las tareas (trabajo 일 + partícula de sujeto 이)
+많아요 / hay mucho / es mucho (presente de 많다)
+네 / sí
+오후에 / por la tarde (la tarde 오후 + partícula de tiempo 에)
+더 / más
+바빠요 / estoy ocupado / estás ocupado (presente de 바쁘다)
+퇴근하면 / al salir del trabajo / si salgo del trabajo (퇴근하다 + conector si/cuando 면)
+바로 / directamente / en seguida
+집에 / a casa (casa 집 + partícula de dirección 에)
+아니요 / no
+가끔 / a veces
+운동하러 / a hacer ejercicio (hacer ejercicio 운동하다 + conector para 러)
+저녁에는 / por la noche (la noche 저녁 + partícula de tiempo/tema 에/는)
+유튜브 / YouTube
+보면서 / mientras veo (ver 보다 + conector mientras 면서)
+쉬어요 / descanso / descansas (presente de 쉬다)
+매일 / todos los días / diariamente
+한국어 / idioma coreano
+공부도 / el estudio también (estudio 공부 + partícula también 도)
+하루에 / al día (un día 하루 + partícula por/en 에)
+삼십 / treinta
+분씩 / cada minutos / por minutos (minuto 분 + partícula cada/por 씩)
+자기 / el dormir / antes de dormirse (forma sustantivada de 자다)
+전에 / antes de (antes 전 + partícula de tiempo 에)
+휴대폰을 / el teléfono móvil (móvil 휴대폰 + partícula de objeto 을)
+봐요 / miro / miras (presente de 보다)
+뉴스를 / las noticias (noticias 뉴스 + partícula de objeto 를)
+조금 / un poco
+읽어요 / leo / lees (presente de 읽다)
+평일에는 / entre semana (días de diario 평일 + partícula de tiempo/tema 에/는)
+자요 / me duermo / te duermes (presente de 자다)
+열한 / once (forma modificadora de 열하나)
+시쯤 / sobre las (hora 시 + partícula aproximada 쯤)
+중 / entre / de entre
+언제가 / cuándo (cuándo 언제 + partícula de sujeto 가)
+가장 / el más / lo más
+좋아요 / es bueno / me gusta (presente de 좋다)
+저는 / yo (yo 저 + partícula de tema 는)
+시간이 / el tiempo / el horario (tiempo 시간 + partícula de sujeto 이)

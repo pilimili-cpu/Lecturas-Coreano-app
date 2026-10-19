@@ -1,0 +1,102 @@
+서류를 발급받으러 왔어요.
+어떤 서류가 필요하세요?
+이 신청서는 어디에 써요?
+여기에서 작성하시면 돼요.
+신분증이 필요한가요?
+네, 신분증을 보여 주세요.
+온라인으로도 신청할 수 있어요?
+네, 가능한 서류도 있어요.
+휴대폰으로 본인 인증해도 돼요?
+네, 그렇게 하셔도 돼요.
+이 서류는 바로 받을 수 있어요?
+네, 잠시만 기다려 주세요.
+수수료가 있어요?
+이 서류는 수수료가 없어요.
+주소를 변경하고 싶어요.
+이 신청서를 작성해 주세요.
+번호표를 먼저 뽑아야 해요?
+네, 입구에서 뽑으시면 돼요.
+이제 다 끝난 건가요?
+네, 모두 처리됐습니다.
+*
+He venido a solicitar/expedir un documento.
+¿Qué documento necesita?
+¿Dónde se rellena esta solicitud?
+Puede rellenarla aquí.
+¿Hace falta el documento de identidad?
+Sí, por favor, muéstreme su documento de identidad.
+¿Se puede solicitar también en línea?
+Sí, hay documentos con los que también es posible.
+¿Puedo hacer la verificación de identidad con el teléfono móvil?
+Sí, puede hacerlo así.
+¿Este documento se puede recibir al instante?
+Sí, espere un momento, por favor.
+¿Hay alguna tasa / comisión?
+Este documento no tiene tasa.
+Quiero cambiar la dirección.
+Rellene esta solicitud, por favor.
+¿Tengo que coger un número primero?
+Sí, puede cogerlo en la entrada.
+¿Ya ha terminado todo?
+Sí, todo ha sido procesado.
+*
+서류를 / el documento (서류: documento + -를: partícula de objeto directo)
+발급받으러 / para expedir / para solicitar un certificado (발급받다: recibir la expedición de un documento + -(으)러: partícula de propósito "para")
+왔어요 / he venido (오다: venir + -았-: pasado + -어요: nivel cortés)
+어떤 / qué / cuál
+서류가 / documento (서류: documento + -가: partícula de sujeto)
+필요하세요? / ¿necesita? (필요하다: ser necesario + -(으)시-: honorífico + -어요: nivel cortés)
+이 / esta
+신청서는 / la solicitud (신청서: formulario de solicitud + -는: partícula de tema)
+어디에 / dónde (어디: dónde + -에: partícula de lugar "en/a")
+써요? / ¿se escribe / escribe? (쓰다: escribir/rellenar + -어/아요: nivel cortés)
+여기에서 / aquí (여기: aquí + -에서: partícula de lugar "en")
+작성하시면 돼요 / basta con rellenar / puede rellenar (작성하다: rellenar/escribir + -(으)시-: honorífico + -(으)면 되다: bastar con/ser suficiente + -요: nivel cortés)
+신분증이 / el documento de identidad (신분증: documento de identidad + -이: partícula de sujeto)
+필요한가요? / ¿es necesario? (필요하다: ser necesario + -ㄴ가요?: desinencia interrogativa suave)
+네 / sí
+신분증을 / el documento de identidad (신분증: documento de identidad + -을: partícula de objeto directo)
+보여 주세요 / muestre, por favor (보이다: mostrar + -아 주다: hacer el favor + -세요: imperativo cortés)
+온라인으로도 / por línea también (온라인: en línea + -으로: partícula de medio/modo "por/mediante" + -도: partícula "también")
+신청할 수 있어요? / ¿se puede solicitar? (신청하다: solicitar + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+네 / sí
+가능한 / posible (가능하다: ser posible + -(으)ㄴ: adjetivo modificador)
+서류도 / documento también (서류: documento + -도: partícula "también")
+있어요 / hay / existen (있다: haber/estar + -어요: nivel cortés)
+휴대폰으로 / con el teléfono móvil (휴대폰: teléfono móvil + -으로: partícula de medio "con/mediante")
+본인 / uno mismo / titular
+인증해도 돼요? / ¿se puede hacer la autenticación? (인증하다: autenticar/verificar + -아/어도 되다: tener permiso/poder + -요: nivel cortés)
+네 / sí
+그렇게 / así / de esa manera
+하셔도 돼요 / puede hacerlo (하다: hacer + -(으)시-: honorífico + -아/어도 되다: poder/permiso + -요: nivel cortés)
+이 / este
+서류는 / el documento (서류: documento + -는: partícula de tema)
+바로 / inmediatamente / al instante
+받을 수 있어요? / ¿se puede recibir? (받다: recibir + -(으)ㄹ 수 있다: poder/capacidad + -요: nivel cortés)
+네 / sí
+잠시만 / solo un momento
+기다려 주세요 / espere, por favor (기다리다: esperar + -어 주다: hacer el favor + -세요: imperativo cortés)
+수수료가 / la tasa / comisión (수수료: tasa/comisión + -가: partícula de sujeto)
+있어요? / ¿hay? / ¿tiene? (있다: haber/tener + -어요: nivel cortés)
+이 / este
+서류는 / el documento (서류: documento + -는: partícula de tema)
+수수료가 / la tasa / comisión (수수료: tasa/comisión + -가: partícula de sujeto)
+없어요 / no hay / no tiene (없다: no haber/no tener + -어요: nivel cortés)
+주소를 / la dirección (주소: dirección + -를: partícula de objeto directo)
+변경하고 싶어요 / quiero cambiar (변경하다: cambiar/modificar + -고 싶다: querer hacer algo + -어요: nivel cortés)
+이 / esta
+신청서를 / la solicitud (신청서: formulario de solicitud + -를: partícula de objeto directo)
+작성해 주세요 / rellene, por favor (작성하다: rellenar + -아 주다: hacer el favor + -세요: imperativo cortés)
+번호표를 / el ticket de turno (번호표: ticket numerado + -를: partícula de objeto directo)
+먼저 / primero / de antemano
+뽑아야 해요? / ¿tengo que coger/sacar? (뽑다: sacar/coger + -아/어야 하다: tener que/deber + -요: nivel cortés)
+네 / sí
+입구에서 / en la entrada (입구: entrada + -에서: partícula de lugar "en")
+뽑으시면 돼요 / basta con coger / puede coger (뽑다: sacar/coger + -(으)시-: honorífico + -(으)면 되다: bastar con + -요: nivel cortés)
+이제 / ahora
+다 / todo
+끝난 / terminado (끝나다: terminar + -(으)ㄴ: adjetivo modificador)
+건가요? / ¿es el caso de que...? / ¿ya está...? (것: cosa + -ㄴ가요?: pregunta suave)
+네 / sí
+모두 / todo / totalmente
+처리됐습니다 / ha sido procesado (처리되다: ser procesado + -었-: pasado + -습니다: nivel formal)
