@@ -634,26 +634,38 @@ let lineasCoreano = [];
         }
 // Detectar cuando el usuario arrastra o selecciona texto con el ratón
 // Listener unificado para PC (ratón) y Tablet (gestos táctiles/barritas)
+
+// Detectar cuando el usuario arrastra o selecciona texto con el ratón
 document.addEventListener('selectionchange', function() {
-    // Usamos un pequeño temporizador para esperar a que el usuario termine de mover las barritas
     clearTimeout(window.timeOutSeleccion);
     window.timeOutSeleccion = setTimeout(() => {
         const seleccion = window.getSelection().toString().trim();
 
         if (seleccion.length > 0) {
-            // Limpiamos posibles signos de puntuación (ej. "?", ".", ",")
-            const palabraLimpia = seleccion.replace(/^[.,!?;()¿¡]+|[.,!?;()¿¡]+$/g, '');
+            // 1. Texto exacto seleccionado (con signos como '?')
+            const textoOriginal = seleccion;
+            // 2. Texto limpio (sin signos de puntuación)
+            const palabraLimpia = seleccion.replace(/^[.,!?;()¿¡\s]+|[.,!?;()¿¡\s]+$/g, '');
 
-            // Buscamos la selección en el glosario
-            if (diccionarioGlosario && diccionarioGlosario[palabraLimpia]) {
-                const significado = diccionarioGlosario[palabraLimpia];
+            // Buscar primero por el texto exacto, y si no, por el texto limpio
+            let significado = null;
+            let palabraEncontrada = "";
+
+            if (diccionarioGlosario[textoOriginal]) {
+                significado = diccionarioGlosario[textoOriginal];
+                palabraEncontrada = textoOriginal;
+            } else if (diccionarioGlosario[palabraLimpia]) {
+                significado = diccionarioGlosario[palabraLimpia];
+                palabraEncontrada = palabraLimpia;
+            }
+
+            if (significado) {
                 const panelGlosario = document.getElementById('panelGlosario');
-                
                 if (panelGlosario) {
                     panelGlosario.innerHTML = `
                         <div>
                             <span style="font-size: 0.8rem; color: #6366f1; font-weight: bold; text-transform: uppercase;">Glosario (Selección)</span>
-                            <p style="font-size: 1.3rem; color: #fff; font-weight: bold; margin: 6px 0;">${palabraLimpia}</p>
+                            <p style="font-size: 1.3rem; color: #fff; font-weight: bold; margin: 6px 0;">${palabraEncontrada}</p>
                             <p style="font-size: 1.1rem; color: #a5b4fc; font-weight: 600; margin-bottom: 12px;">➔ ${significado}</p>
                         </div>
                         <hr style="border-color: #334155; margin: 0;">
@@ -662,9 +674,8 @@ document.addEventListener('selectionchange', function() {
                 }
             }
         }
-    }, 200); // 200ms de pausa para que detecte al soltar las barritas
+    }, 200);
 });
-
 </script>
 </body>
 </html>
